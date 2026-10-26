@@ -1,12 +1,5 @@
-﻿# TaskFlow â€” Flutter To-Do App
+﻿# TaskFlow  Flutter To-Do App
 
-<p align="center">
-  <img src="screenshots/taskflow-preview.jpeg" alt="TaskFlow App Preview" width="280">
-</p>
-
-<p align="center">
-  A clean and practical task management app built with Flutter and Dart.
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.38.7-02569B?logo=flutter&logoColor=white" alt="Flutter">
@@ -16,6 +9,16 @@
   <img src="https://img.shields.io/badge/Flutter%20Analyze-Passed-success" alt="Flutter analyze passed">
   <img src="https://img.shields.io/badge/Device%20Testing-Passed-success" alt="Device testing passed">
 </p>
+
+<p align="center">
+  A clean and practical task management app built with Flutter and Dart.
+</p>
+
+
+<p align="center">
+  <img src="screenshots/taskflow-preview.jpeg" alt="TaskFlow App Preview" width="280">
+</p>
+
 
 ## About the Project
 
